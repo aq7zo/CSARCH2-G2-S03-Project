@@ -69,7 +69,7 @@ Proposed Interactive Element
 
    Two Inertial Reference System display panels side by side. A step control explains to the user how the system goes from 30s to 36.8s: Nominal operation, operator error at SRI 2, diagnostics pattern sent over the bus, and the same fault at SRI 1\. Demonstrates the redundancy paradox: The same software causes the same fault.
 
-4. **Interactive Element 5: Postmortem Flip Cards**
+4. **Interactive Element 4: Postmortem Flip Cards**
 
    Six cards that the user can tap to “flip” through showing engineering lessons learned (Reuse of Code, Unprotected Conversion, Data vs. Diagnostics, Identical Redundancy, Specification vs. Testing, Cost, and potentially more).
 
