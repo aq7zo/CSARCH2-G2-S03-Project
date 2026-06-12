@@ -77,7 +77,7 @@ Tentative Style Guide
 
 **Design Rationale.** To reflect the Ariane Flight V88 incident, the virtual exhibit incorporates an aerospace theme that takes inspiration from the elements of space mission posters. It encompasses a gradient background that symbolizes the different layers of the atmosphere, cybernetic fonts, and an interactive visualizer that resembles a dashboard. 
 
-	The exhibit aims to achieve a museum-grade cosmic visual tone incorporating dark backgrounds, monospaced data readouts, and cinematic transitions between rooms.
+The exhibit aims to achieve a museum-grade cosmic visual tone incorporating dark backgrounds, monospaced data readouts, and cinematic transitions between rooms.
 
 **Palette**  
 Space Black \#05060A: page background  
